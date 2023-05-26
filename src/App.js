@@ -11,7 +11,6 @@ import alexImage from "./images/alex.jpg";
 import alexanderImage from "./images/alexander.jpg";
 import chrisImage from "./images/chris.jpg";
 
-import logoDynamite from "./logo-dynamite.PNG";
 import Container from "./components/Container";
 
 const App = () => {
